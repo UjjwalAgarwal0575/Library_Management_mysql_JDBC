@@ -1,4 +1,4 @@
-# LIbrary-Management
+# LIbrary-Management_MySQL_JDBC
 
 Instructions to run code:
 
